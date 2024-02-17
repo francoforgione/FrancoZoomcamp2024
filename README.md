@@ -8,7 +8,7 @@ Notes:
 
 Week 1: 01-docker-terraform
 
-Week 2: 02-workflow-orchestration -> Data Pipeline orchestration with Mage and Google Cloud Platform
+Week 2: 02-workflow-orchestration -> Data Pipeline orchestration with Airflow and Google Cloud Platform
 
 Week 3: 03-data-warehouse -> Data Warehouse Big Query
 
