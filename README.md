@@ -1,6 +1,5 @@
 # FrancoZoomcamp2024
-data-engineering-zoomcamp-work
-Data Engineering Bootcamp notes:
+
 
 Bootcamp repo on github: https://github.com/DataTalksClub/data-engineering-zoomcamp by DataTalksClub
 
